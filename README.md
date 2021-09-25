@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kaisar Jamil
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaisarjamil&label=Profile%20views&color=0e75b6&style=flat" alt="kaisarjamil" /> </p>
 
-- 🌱 Intern at Mistri Soultions
+- 🌱 Web Application Developer at Mistri Soultions
 
 - 📫 How to reach me **kaisar.mistrisolutions@gmail.com**
 
